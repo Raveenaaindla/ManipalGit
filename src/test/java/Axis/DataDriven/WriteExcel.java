@@ -86,13 +86,9 @@ public class WriteExcel {
 				
 				workbook.write(fos);
 				
-				fos.close();
-				
-				
+				fos.close();				
 			}
 			
-			
-	
-
 }
+		
 }

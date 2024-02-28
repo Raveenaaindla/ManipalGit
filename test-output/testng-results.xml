@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-27T20:57:24 IST" name="Default suite" finished-at="2024-02-27T20:57:34 IST" duration-ms="10190">
+  <suite started-at="2024-02-28T18:33:25 IST" name="Default suite" finished-at="2024-02-28T18:33:38 IST" duration-ms="12722">
     <groups>
     </groups>
-    <test started-at="2024-02-27T20:57:24 IST" name="Default test" finished-at="2024-02-27T20:57:34 IST" duration-ms="10190">
+    <test started-at="2024-02-28T18:33:25 IST" name="Default test" finished-at="2024-02-28T18:33:38 IST" duration-ms="12722">
       <class name="Axis.DataDriven.WriteExcel">
-        <test-method signature="fblogin()[pri:0, instance:Axis.DataDriven.WriteExcel@478190fc]" started-at="2024-02-27T20:57:24 IST" name="fblogin" finished-at="2024-02-27T20:57:34 IST" duration-ms="10151" status="PASS">
+        <test-method signature="fblogin()[pri:0, instance:Axis.DataDriven.WriteExcel@478190fc]" started-at="2024-02-28T18:33:25 IST" name="fblogin" finished-at="2024-02-28T18:33:38 IST" duration-ms="12622" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fblogin -->
