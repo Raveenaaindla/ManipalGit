@@ -71,11 +71,6 @@ public class ReadExcel {
 				
 				Thread.sleep(1000);
 				
-				//login 
-				
-				WebElement login = driver.findElement(By.xpath("//button[@id = 'loginbutton']"));
-				
-				login.click();
 				
 			}
 			
